@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Adryan-Arthur&color=006bed)
-
 ## Sobre mim
 
 - 🤔 Olá, Me chamo Adryan e estou começando no mundo da programação.
