@@ -2,7 +2,7 @@
 
 - 🤓 Olá, Me chamo Adryan e estou começando no mundo da programação.
 - 🎓 Estudo ADS na Unibra e no momento estou só estudando.
-- 🌱 focando em aprender JavaScript e Python.
+- 🌱 focando em aprender JavaScript.
 
 ## Minhas Skills
 
